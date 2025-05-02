@@ -1,5 +1,5 @@
 ---
-Welcome to Solana Drive
+title: Solana Drive
 ---
 
 *** Lorem ipsum dolor sit amet ***
